@@ -1,7 +1,7 @@
 require "spec_helper"
 
 module Codebreaker
-  describe "Marker" do
+  describe Marker do
     describe "#exact_match_count" do
       context "with no matches" do
         it "returns 0" do
