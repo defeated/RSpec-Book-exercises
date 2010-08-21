@@ -1,5 +1,3 @@
-puts 'x'
-
 class RSpecGreeter
   def greet
     "Hello RSpec!"
